@@ -45,3 +45,5 @@ And not that much more!
 
 <hr>
 
+## Credits:
+1. [ieatcodeforthings](https://github.com/ieatcodeforthings) - Finding games and a lil help on the website.
